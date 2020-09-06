@@ -14,7 +14,7 @@ try:
     driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
 except:
     driver = webdriver.Chrome(options=chrome_options,
-                              executable_path=r'C:\\Users\CLEMENT\Downloads\chromedriver_win32\chromedriver.exe')
+                              executable_path=r'path to chrome driver')
 
 def open(username,password):
     driver.get('https://www.instagram.com/')

@@ -12,4 +12,4 @@ Change the path of chrome driver in the program<br>
 In the project directory run:
 ## python instagram.py
 
-### enter you username and password
+### enter your username and password

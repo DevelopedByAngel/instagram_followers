@@ -7,7 +7,7 @@
 <a href="https://pypi.org/project/selenium/">selenium</a><br>
 <a href="https://pypi.org/project/beautifulsoup4/">bs4 (Beautiful soup)</a>
 
-Fork the repository to you device
+Fork the repository to you device<br>
 In the project directory run:
 ## python instagram.py
 
